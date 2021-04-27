@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @rodrigozem
-- 👀 I’m interested in 
 - 🌱 I’m currently learning codeigniter 4 framework
 
 <!---
